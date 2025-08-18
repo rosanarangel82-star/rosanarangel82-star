@@ -4,7 +4,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Estudante de Análise e Desenvolvimento de Sistemas
 --------------------------------------------------
 
-Sou formada em Pedagogia, com especializações em Psicopedagogia, TEA, ABA e Educação especial com ênfase em deficiência intelectual e múltiplas e cursando pós graduação em ciências de dados e IA. Atualmente sou professora na APAE de Itu, buscando novos desafios na área de tecnologia.
+Sou formada em Pedagogia, com especializações em Psicopedagogia, TEA, ABA e Educação especial com ênfase em deficiência intelectual e múltiplas e cursando pós graduação em ciências de dados e IA. Atualmente sou professora na APAE de Itu, buscando novos desafios na área de tecnologia. Minha experiência na área da Educação me proporciona habilidades sólidas em comunicação clara, organização, resolução de problemas e trabalho em equipe, diferenciais que posso estar aplicando em projetos de tecnologia.
 
 * 🌍  I'm based in Salto-SP
 * ✉️  You can contact me at [rosana.camargodasilva82@gmail.com](mailto:rosana.camargodasilva82@gmail.com)
